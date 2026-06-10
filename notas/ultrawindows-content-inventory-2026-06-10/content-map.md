@@ -1,0 +1,88 @@
+# Content Map
+
+Every crawled page classified into the requested buckets. Hybrid cases use one primary classification plus notes.
+
+| Class | URL | Title | H1 | Word count | Notes |
+|---|---|---|---|---:|---|
+| Home | https://ultrawindows.net/ | Window Replacement in Houston, TX \| Ultra Windows | You’ll Love the Ultra Windows Difference | 1419 |  |
+| Service Area | https://ultrawindows.net/replacement-windows-near-me/ | Our Service Areas \| Ultra Windows | Our Service Areas | 579 | Service area hub |
+| Service Area | https://ultrawindows.net/aluminum-replacement-windows-in-conroe-tx/ | Aluminum Replacement Windows in Conroe, TX | Aluminum Replacement Windows in Conroe, TX | 1951 | Location page with aluminum material modifier |
+| Service Area | https://ultrawindows.net/aluminum-replacement-windows-in-cypress-tx/ | Aluminum Replacement Windows in Cypress, TX \| Ultra Windows | Aluminum Replacement Windows in Cypress, TX | 1769 | Location page with aluminum material modifier |
+| Service Area | https://ultrawindows.net/aluminum-replacement-windows-in-katy-tx/ | Aluminum Replacement Windows in Katy, TX \| Ultra Windows | Aluminum Replacement Windows in Katy, TX | 1796 | Location page with aluminum material modifier |
+| Service Area | https://ultrawindows.net/aluminum-replacement-windows-in-kingwood-tx/ | Aluminum Replacement Windows in Kingwood, TX \| Ultra Windows | Aluminum Replacement Windows in Kingwood, TX | 1812 | Location page with aluminum material modifier |
+| Service Area | https://ultrawindows.net/aluminum-replacement-windows-in-magnolia-tx/ | Aluminum Replacement Windows in Magnolia, TX | Aluminum Replacement Windows in Magnolia, TX | 1765 | Location page with aluminum material modifier |
+| Service Area | https://ultrawindows.net/aluminum-replacement-windows-in-memorial-villages-tx/ | Aluminum Replacement Windows in Memorial Villages, TX | Aluminum Replacement Windows in Memorial Villages, TX | 1846 | Location page with aluminum material modifier |
+| Service Area | https://ultrawindows.net/aluminum-replacement-windows-in-montgomery-tx/ | Aluminum Replacement Windows in Montgomery, TX | Aluminum Replacement Windows in Montgomery, TX | 1779 | Location page with aluminum material modifier |
+| Service Area | https://ultrawindows.net/aluminum-replacement-windows-in-shenandoah-tx/ | Aluminum Replacement Windows in Shenandoah, TX | Aluminum Replacement Windows in Shenandoah, TX | 1733 | Location page with aluminum material modifier |
+| Service Area | https://ultrawindows.net/aluminum-replacement-windows-in-spring-tx/ | Aluminum Replacement Windows in Spring, TX \| Ultra Windows | Aluminum Replacement Windows in Spring, TX | 1996 | Location page with aluminum material modifier |
+| Service Area | https://ultrawindows.net/aluminum-replacement-windows-in-the-woodlands-tx/ | Aluminum Replacement Windows in The Woodlands, TX | Aluminum Replacement Windows in The Woodlands, TX | 1738 | Location page with aluminum material modifier |
+| Service Area | https://ultrawindows.net/aluminum-replacement-windows-in-tomball-tx/ | Aluminum Replacement Windows in Tomball, TX \| Ultra Windows | Aluminum Replacement Windows in Tomball, TX | 1820 | Location page with aluminum material modifier |
+| Service Area | https://ultrawindows.net/fiberglass-replacement-windows-in-the-woodlands-tx/ | Fiberglass Replacement Windows in The Woodlands, TX \| Ultra Windows | Fiberglass Replacement Windows in The Woodlands, TX | 1499 | Location page with fiberglass material modifier |
+| Service Area | https://ultrawindows.net/fiberglass-replacement-windows-in-spring-tx/ | Fiberglass Replacement Windows in Spring, TX \| Ultra Windows | Fiberglass Replacement Windows in Spring, TX | 1462 | Location page with fiberglass material modifier |
+| Service Area | https://ultrawindows.net/aluminum-replacement-windows-in-humble-tx/ | Aluminum Replacement Windows in Humble, TX \| Ultra Windows | Aluminum Replacement Windows in Humble, TX | 1880 | Location page with aluminum material modifier |
+| Service Area | https://ultrawindows.net/aluminum-replacement-windows-in-cinco-ranch-tx/ | Aluminum Replacement Windows in Cinco Ranch, TX | Aluminum Replacement Windows in Cinco Ranch, TX | 1874 | Location page with aluminum material modifier |
+| Service Area | https://ultrawindows.net/replacement-windows-in-brenham-texas/ | Replacement Windows in Brenham, Texas | Replacement Windows in Brenham, Texas | 1666 |  |
+| Service Area | https://ultrawindows.net/replacement-windows-in-livingston-texas/ | Replacement Windows in Livingston, Texas | Replacement Windows in Livingston, Texas | 1665 |  |
+| Service Area | https://ultrawindows.net/replacement-windows-in-hempstead-texas/ | Replacement Windows in Hempstead, Texas | Replacement Windows in Hempstead, Texas | 1666 |  |
+| Service Area | https://ultrawindows.net/replacement-windows-in-magnolia-texas/ | Replacement Windows in Magnolia, Texas | Replacement Windows in Magnolia, Texas | 1666 |  |
+| Service Area | https://ultrawindows.net/replacement-windows-in-memorial-villages-texas/ | Replacement Windows in Memorial Villages, Texas | Replacement Windows in Memorial Villages, Texas | 1679 |  |
+| Service Area | https://ultrawindows.net/replacement-windows-in-spring-branch-texas/ | Replacement Windows in Spring Branch, Texas | Replacement Windows in Spring Branch, Texas | 1675 |  |
+| Service Area | https://ultrawindows.net/replacement-windows-in-sugar-land-texas/ | Replacement Windows in Sugar Land, TX | Replacement Windows in Sugar Land, TX | 1676 |  |
+| Service Area | https://ultrawindows.net/replacement-windows-in-college-station-texas/ | Replacement Windows in College Station, TX | Replacement Windows in College Station, TX | 1676 |  |
+| Service Area | https://ultrawindows.net/replacement-windows-in-bellaire-texas/ | Replacement Windows in Bellaire, Texas | Replacement Windows in Bellaire, Texas | 1438 |  |
+| Service Area | https://ultrawindows.net/replacement-windows-in-huntsville-texas/ | Replacement Windows in Huntsville, Texas | Replacement Windows in Huntsville, Texas | 1664 |  |
+| Service Area | https://ultrawindows.net/replacement-windows-in-cinco-ranch-texas/ | Replacement Windows in Cinco Ranch, Texas | Replacement Windows in Cinco Ranch, Texas | 1676 |  |
+| Service Area | https://ultrawindows.net/replacement-windows-in-kingwood-texas/ | Replacement Windows in Kingwood, Texas | Replacement Windows in Kingwood, Texas | 1665 |  |
+| Service Area | https://ultrawindows.net/replacement-windows-in-conroe-texas/ | Replacement Windows in Conroe, Texas | Replacement Windows in Conroe, Texas | 1665 |  |
+| Service Area | https://ultrawindows.net/replacement-windows-in-west-university-place-texas/ | Replacement Windows in West University Place, Texas | Replacement Windows in West University Place, Texas | 1683 |  |
+| Service Area | https://ultrawindows.net/replacement-windows-in-spring-texas/ | Replacement Windows in Spring, Texas | Replacement Windows in Spring, Texas | 1665 |  |
+| Service Area | https://ultrawindows.net/replacement-windows-katy-tx/ | Replacement Windows in Katy, Texas | Replacement Windows in Katy, Texas | 1665 |  |
+| Service Area | https://ultrawindows.net/replacement-windows-in-tomball-texas/ | Replacement Windows in Tomball, Texas | Replacement Windows in Tomball, Texas | 1665 |  |
+| Service Area | https://ultrawindows.net/replacement-windows-in-cypress-texas/ | Replacement Windows in Cypress, Texas | Replacement Windows in Cypress, Texas | 1665 |  |
+| Service Area | https://ultrawindows.net/replacement-windows-in-humble-texas/ | Replacement Windows in Humble, Texas | Replacement Windows in Humble, Texas | 1665 |  |
+| Service Area | https://ultrawindows.net/replacement-windows-in-montgomery-texas/ | Replacement Windows in Montgomery, TX | Replacement Windows in Montgomery, TX | 1112 |  |
+| Service Area | https://ultrawindows.net/replacement-windows-in-willis-texas/ | Replacement Windows in Willis, Texas | Replacement Windows in Willis, Texas | 1113 |  |
+| Service Area | https://ultrawindows.net/splendora-tx/ | Best Replacement Window in Splendora, TX \| Improve Your Home | Replacement Windows in Splendora, Texas | 1808 |  |
+| Service Area | https://ultrawindows.net/new-waverly-tx/ | Best Replacement Window in New Waverly, TX \| Call Today! | Replacement Windows in New Waverly, Texas | 1821 |  |
+| Service Area | https://ultrawindows.net/willis-tx/ | Durable Replacement Window in Willis, TX \| Call Now | Replacement Windows in Willis, Texas | 1716 |  |
+| Service Area | https://ultrawindows.net/replacement-windows-in-the-woodlands-texas/ | Replacement Windows in The Woodlands, Texas | Replacement Windows in The Woodlands, Texas | 1457 |  |
+| Service Area | https://ultrawindows.net/replacement-windows-in-fulshear-texas/ | Replacement Windows in Fulshear, Texas | Replacement Windows in Fulshear, Texas | 1444 |  |
+| Service Area | https://ultrawindows.net/replacement-windows-in-bellville-texas/ | Replacement Windows in Bellville, Texas | Replacement Windows in Bellville, Texas | 1444 |  |
+| Service Area | https://ultrawindows.net/replacement-windows-in-jersey-village/ | Replacement Windows in Jersey Village, Texas | Replacement Windows in Jersey Village, Texas | 1455 |  |
+| Service Area | https://ultrawindows.net/replacement-windows-in-houston-texas/ | Replacement Windows in Houston, Texas | Replacement Windows in Houston, Texas | 1172 |  |
+| Material | https://ultrawindows.net/aluminum-windows/ | Aluminum Replacement Windows in Houston, TX \| Ultra Windows | Aluminum Replacement Windows in Houston, TX | 1874 |  |
+| Material | https://ultrawindows.net/composite-windows/ | Composite Replacement Windows in Houston, TX \| Ultra Windows | Composite Replacement Windows in Houston, TX | 1382 |  |
+| Material | https://ultrawindows.net/ultra-fiberglass-replacement-windows/ | Fiberglass Replacement Windows in Houston, TX \| Ultra Windows | Fiberglass Replacement Windows in Houston, TX | 1553 |  |
+| Material | https://ultrawindows.net/vinyl-windows/ | Vinyl Replacement Windows in Houston, TX \| Ultra Windows | VINYL REPLACEMENT WINDOWSIN HOUSTON, TX | 1351 |  |
+| Material | https://ultrawindows.net/ultra-clad-wood-windows/ | Wood Replacement Windows in Houston, TX \| Ultra Windows | Wood Replacement Windows in Houston, TX | 1378 |  |
+| Style | https://ultrawindows.net/ultra-garden-replacement-windows/ | Garden Replacement Windows in Houston, TX \| Ultra Windows | Garden Replacement Windows in Houston, TX | 1435 |  |
+| Style | https://ultrawindows.net/bay-and-bow-replacement-windows/ | Bay and Bow Replacement Windows in Houston, TX \| Ultra Windows | Bay and Bow Replacement Windows in Houston, TX | 1397 |  |
+| Style | https://ultrawindows.net/double-hung-windows-houston/ | Double Hung Replacement Windows in Houston, TX \| Ultra Windows | Double Hung Replacement Windows in Houston, TX | 1381 |  |
+| Style | https://ultrawindows.net/ultra-replacement-picture-window/ | Replacement Picture Windows in Houston, TX \| Ultra Windows | Replacement Picture Windows in Houston, TX | 1415 |  |
+| Style | https://ultrawindows.net/single-hung-replacement-windows/ | Single Hung Replacement Windows in Houston, TX | Single Hung Replacement Windows in Houston, TX | 1415 |  |
+| Style | https://ultrawindows.net/ultra-sliding-replacement-windows/ | Sliding Replacement Windows in Houston, TX \| Ultra Windows | Sliding Replacement Windows in Houston, TX | 1470 |  |
+| Style | https://ultrawindows.net/ultra-casement-replacement-windows/ | Casement Replacement Windows in Houston, TX \| Ultra Windows | Casement Replacement Windows in Houston, TX | 1397 |  |
+| FAQ | https://ultrawindows.net/frequently-asked-window-questions/ | Frequently Asked Window Questions \| Ultra Windows | Frequently Asked Window Questions | 679 |  |
+| Project/Proof | https://ultrawindows.net/projects/ | Projects \| Ultra Windows | TAKE A LOOK AT OUR PAST WORK! | 423 |  |
+| Project/Proof | https://ultrawindows.net/ultra-satisfied-customers/ | Ultra Satisfied Customers \| Ultra Windows \| Houston, Katy, Spring | Ultra Windows strives to offer quality replacement windows with a premium installation at a price you can afford with the end goal of having an extremely satisfied customer! | 6438 |  |
+| Article | https://ultrawindows.net/articles/ | Articles \| Ultra Windows | [missing] | 534 | Article index; Missing H1 in parsed HTML.; Missing meta description. |
+| Article | https://ultrawindows.net/best-energy-efficient-replacement-windows-for-houston-homes-in-2026/ | Best Energy-Efficient Replacement Windows for Houston Homes in 2026 | Best Energy-Efficient Replacement Windows for Houston Homes | 1771 |  |
+| Article | https://ultrawindows.net/how-windows-affect-your-homes-resale-value/ | How Windows Affect Your Home’s Resale Value | How Windows Affect Your Home’s Resale Value | 1689 |  |
+| Article | https://ultrawindows.net/how-to-know-when-its-time-to-replace-your-windows/ | How to Know When It’s Time to Replace Your Windows | How to Know When It’s Time to Replace Your Windows | 1810 |  |
+| Article | https://ultrawindows.net/why-black-aluminum-windows-are-one-of-the-hottest-home-design-trends/ | Why Black Aluminum Windows are One of the Hottest Home Design Trends | Why Black Aluminum Windows are One of the Hottest Home Design Trends | 1767 |  |
+| Article | https://ultrawindows.net/why-energy-efficient-windows-can-slash-your-summer-cooling-bills-in-houston/ | Why Energy-Efficient Windows Can Slash Your Summer Cooling Bills in Houston | Why Energy-Efficient Windows Can Slash Your Summer Cooling Bills in Houston | 1431 |  |
+| Article | https://ultrawindows.net/avoiding-costly-mistakes-questions-every-houston-homeowner-should-ask-a-window-company/ | Questions Every Houston Homeowner Should Ask a Window Company | Avoiding Costly Mistakes: Questions Every Houston Homeowner Should Ask a Window Company | 1625 |  |
+| Article | https://ultrawindows.net/double-hung-vs-casement-windows-which-should-you-choose/ | Double-Hung vs. Casement Windows: Which Should You Choose? | Double-Hung vs. Casement Windows: Which Should You Choose? | 1747 |  |
+| Article | https://ultrawindows.net/what-happens-if-you-wait-too-long-to-replace-windows/ | What Happens If You Wait Too Long to Replace Windows? | What Happens If You Wait Too Long to Replace Windows? | 1780 |  |
+| Company | https://ultrawindows.net/about-us/ | About Us \| Ultra Windows For Window Replacement | [missing] | 224 | Thin content candidate: fewer than 250 extracted body words.; Missing H1 in parsed HTML. |
+| Company | https://ultrawindows.net/current-jobs/ | Current Jobs \| Ultra Windows \| Houston | CURRENT JOBS | 315 |  |
+| Company | https://ultrawindows.net/experience-the-ultra-difference/ | Experience The Ultra Difference \| Ultra Windows \| Houston | Experience the Ultra difference — we’re proud to serve the Houston area with Ultra Reliable Replacement Windows since 1996. | 691 |  |
+| Company | https://ultrawindows.net/window-companies-in-houston/ | About Ultra Windows \| Houston Window Replacement Company | Premiere Window Company in Houston, TX | 1316 |  |
+| Contact | https://ultrawindows.net/contact-us/ | Contact Us \| Ultra Windows \| Houston Texas | [missing] | 315 | Missing H1 in parsed HTML. |
+| Other | https://ultrawindows.net/replacement-windows/ | Windows \| Ultra Windows | Replacement Windows in Houston, Katy, Spring, Kingwood and The Woodlands | 754 | General replacement-window service page |
+| Other | https://ultrawindows.net/financing/ | Financing \| Ultra Windows | Expand your purchasing power with Promotional Financing through Synchrony. | 454 | Offer/financing page |
+| Other | https://ultrawindows.net/window-replacement-magnolia-tx-610595bc/ | window replacement magnolia tx - Resources | window replacement magnolia tx – Resources | 2362 | Machine-generated resource page candidate; Spam/generated-page candidate: URL ends in machine-like hexadecimal suffix.; Resource/spam-footprint candidate: appears tied to SEO automation resource pages. |
+| Other | https://ultrawindows.net/aluminum-window-replacement-magnolia-tx-610596bc/ | aluminum window replacement magnolia tx - Resources | aluminum window replacement magnolia tx – Resources | 1929 | Machine-generated resource page candidate; Spam/generated-page candidate: URL ends in machine-like hexadecimal suffix.; Resource/spam-footprint candidate: appears tied to SEO automation resource pages. |
+| Other | https://ultrawindows.net/window-replacement-the-woodland-tx-610597bc/ | window replacement the woodland tx - Resources | window replacement the woodland tx – Resources | 2067 | Machine-generated resource page candidate; Spam/generated-page candidate: URL ends in machine-like hexadecimal suffix.; Resource/spam-footprint candidate: appears tied to SEO automation resource pages. |
+| Other | https://ultrawindows.net/aluminum-window-replacement-the-woodland-tx-610598bc/ | aluminum window replacement the woodland tx - Resources | aluminum window replacement the woodland tx – Resources | 1902 | Machine-generated resource page candidate; Spam/generated-page candidate: URL ends in machine-like hexadecimal suffix.; Resource/spam-footprint candidate: appears tied to SEO automation resource pages. |
+| Other | https://ultrawindows.net/window-replacement-tomball-tx-610599bc/ | window replacement tomball tx - Resources | window replacement tomball tx – Resources | 2061 | Machine-generated resource page candidate; Spam/generated-page candidate: URL ends in machine-like hexadecimal suffix.; Resource/spam-footprint candidate: appears tied to SEO automation resource pages. |

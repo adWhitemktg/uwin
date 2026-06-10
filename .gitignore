@@ -3,3 +3,10 @@
 
 # Ada Library Information
 *.ali
+
+# macOS
+.DS_Store
+
+# Local static site rips
+ultrawindows-mirror/
+rip/
